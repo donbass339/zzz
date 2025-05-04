@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>Зоопарк</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <header>
+        <h1>Зоопарк Аквамарин</h1>
+    </header>
+    <main>
+        <h2> Животные в нашем зоопарке</h2>
+        <ol>
+            <li> Млекопитающие. </li>
+            <li>Земноводные. </li>
+            <li> Пресмыкающиеся. </li>
+        </ol>
+        <div class="mleko"/>
+            <h1> Млекопитающие </h1>
+            <img src="https://img.freepik.com/free-photo/closeup-elephant-walking-savanna-amboseli-national-park-kenya-africa_181624-15792.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/rhinoceros-standing-alone-ground-with-tiny-birds-back_181624-16434.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/giraffe-national-park-kenya_167946-75.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/high-angle-shot-alligator-dirty-lake-jungle_181624-8516.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+        </div>
+        <div class="zemno">
+            <h1> Рыбы </h1>
+            <img src="https://img.freepik.com/premium-photo/close-up-portrait-fish-underwater_1048944-19790500.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/close-up-fish-underwater_23-2150776894.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/beautiful-shot-dolphin-silhouette-water_181624-17560.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+        </div>
+
+        <div class="presm">
+            <h1> Пресмыкающиеся </h1>
+            <img src="https://img.freepik.com/free-photo/close-up-shot-face-adult-black-western-whip-snake-hierophis-viridiflavus-malta_181624-43514.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+            <img src="https://img.freepik.com/free-photo/closeup-ocellated-lizard-sunlight_181624-52964.jpg?ga=GA1.1.580196638.1728121548&semt=ais_hybrid">
+        </div>
+        
+    </main>
+    
+    <footer>
+        <h3> Мы находимся по адресу:  Калужское ш., 47 км, Троицк, Московская обл.
+        <h3> Контактный номер: +7 910 812 36 21
+    </footer>
