@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+.mleko {
+    text-align: center;
+    color: brown;
+    opacity: 0.5;
+    
+}
+
+header h1 {
+    text-align: center;
+
+}
+
+.zemno {
+    text-align: center;
+    color: blue;
+    opacity: 0.5;
+}
+
+.presm {
+    text-align: center;
+    color: #ABF000	;
+    opacity: 0.5;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+}
+
+footer h3 {
+    background-color: purple;
+}
+
+.presm:hover {
+    opacity: 1;
+}
+
+.zemno:hover {
+    opacity: 1;
+}
+
+.mleko:hover {
+    opacity: 1;
+}
